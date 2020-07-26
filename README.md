@@ -1,0 +1,2 @@
+# MulheresEmFoco
+Nosso projeto tem foco na segurança da mulher, mulheres essas que passam por agressões diariamente sem ao menos dizer uma palavra, pelo puro medo de não serem compreendidas. Essa aplicação fornece ajuda rápida em situações de perigo, sejam na rua ou até mesmo dentro de casa, além de uma rede de encontro para não saírem sozinhas e sem esquecer da ajuda de psicólogos e advogados voluntários.
